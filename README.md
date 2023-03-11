@@ -6,7 +6,7 @@ The recommendation system uses various techniques, such as collaborative filteri
 
 The system may also use machine learning algorithms to continually improve its recommendations based on user feedback and data analysis. The ultimate goal of a movie recommendation system is to provide a personalized and enjoyable viewing experience for each user
 
-what was the importance of Recommendation Sytem:
+What was the importance of Recommendation Sytem and Why we need it?
 
 Personalization: One of the main benefits of movie recommendation systems is that they provide personalized recommendations to each user based on their past viewing history and preferences. This enhances the user's viewing experience and increases the likelihood that they will find content that they enjoy.
 
